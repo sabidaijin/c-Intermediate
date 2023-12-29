@@ -1,0 +1,9 @@
+JohnLennon 30
+YokoOno 97
+PaulMcCartney	95
+StellaMcCartney 42
+GeorgeHarrison 55
+RingoStarr 50
+JulianLennon 60
+SeanLennon 70
+LindaMcCartney 74
